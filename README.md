@@ -1,2 +1,2 @@
 # pumpdotnetsdktest
-pump dev
+pump dev test
